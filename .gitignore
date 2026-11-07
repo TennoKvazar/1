@@ -1,0 +1,19 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+
+# Data, exports and potentially identifying medical studies
+data/
+exports/
+*.dcm
+*.nii
+*.nii.gz
+*.nrrd
+*.stl
+*.ply
+*.obj
+*.jsonl
