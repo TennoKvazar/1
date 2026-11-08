@@ -26,3 +26,7 @@ OrthoSim 0.1 is an **educational 3D geometry prototype** for Windows, not a clin
 Run `python -m unittest -v test_geometry` to test geometry logic (requires NumPy).
 
 **Privacy:** Never commit real patient identifiers, DICOM studies or clinical scans to this repository. Do not use the prototype for clinical decisions.
+
+## Рабочая среда и переезд на новый ПК
+
+[Библиотека инструментов и чек-лист установки](docs/TOOLS_LIBRARY.md) — рекомендуемые программы, безопасность, порядок восстановления OrthoSim и отложенные эксперименты с ИИ-агентами.
